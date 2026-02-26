@@ -47,6 +47,14 @@ A ideia é pegar um dataset de vendas com problemas e fazer:
 3. Deixe o arquivo `dataset_vendas_sujo_25994.csv` na mesma pasta do notebook.
 4. Execute as células em ordem, do início ao fim.
 
+## Como abrir no Google Colab
+
+1. Acesse o notebook direto por este link:
+   https://colab.research.google.com/github/Luizguilherme110/Analista-de-Dados/blob/main/TP1_O_Analista_de_Dados.ipynb
+2. Faça login na sua conta Google, se necessário.
+3. Execute as células em ordem.
+4. Se o CSV não estiver carregado, faça upload do arquivo quando o notebook solicitar.
+
 ## Observações
 
 - O notebook tenta identificar automaticamente colunas de **data**, **venda**, **quantidade**, **preço** e **categoria**.
