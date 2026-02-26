@@ -1,6 +1,7 @@
 # Trabalho Prático 1 - O Analista de Dados
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Luizguilherme110/Analista-de-Dados/blob/main/TP1_O_Analista_de_Dados.ipynb)
+![Status](https://img.shields.io/badge/status-acad%C3%AAmico-blue)
 
 Este projeto foi feito para a disciplina **ADS308 - Inteligência Artificial**.
 A ideia é pegar um dataset de vendas com problemas e fazer:
