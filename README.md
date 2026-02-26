@@ -13,6 +13,11 @@ A ideia é pegar um dataset de vendas com problemas e fazer:
 - `TP1_O_Analista_de_Dados.ipynb`: notebook principal com todo o passo a passo.
 - `dataset_vendas_sujo_25994.csv`: base de dados usada no trabalho.
 
+## Links rápidos (GitHub)
+
+- Notebook: https://github.com/Luizguilherme110/Analista-de-Dados/blob/main/TP1_O_Analista_de_Dados.ipynb
+- Dataset: https://github.com/Luizguilherme110/Analista-de-Dados/blob/main/dataset_vendas_sujo_25994.csv
+
 ## O que o notebook faz (resumo)
 
 1. **Carrega e inspeciona** o dataset.
